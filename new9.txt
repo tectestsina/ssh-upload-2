@@ -1,1 +1,2 @@
 git add -A new4
+git add . update3
