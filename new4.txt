@@ -1,1 +1,2 @@
 git add+filename new2.
+git add -A update1
