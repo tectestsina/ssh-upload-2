@@ -1,3 +1,4 @@
 ﻿git add +文件名 new2
 git add +filename update2
 git add +filename update2
+git add -u update1
