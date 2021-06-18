@@ -1,2 +1,0 @@
-git add . new3
-git add . update3

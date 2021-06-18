@@ -1,3 +1,0 @@
-git tortoisegit new1
-git tortoisegit update1
-11.47 git tortoisegit update1

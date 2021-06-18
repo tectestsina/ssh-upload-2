@@ -1,2 +1,0 @@
-git gui new1
-git gui update1

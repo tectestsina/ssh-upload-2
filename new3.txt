@@ -1,2 +1,0 @@
-git add+filename new2
-git add . update1
